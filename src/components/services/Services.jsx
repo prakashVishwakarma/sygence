@@ -4,7 +4,7 @@ import ServiceCard from '../servicecard/ServiceCard'
 const Services = () => {
     return (
 
-        <div id='Services' className='w-full flex flex-col md:flex-row mt-16'>
+        <div id='Služby' className='w-full flex flex-col md:flex-row mt-16'>
             <div className='sm:w-[100%] md:w-[30%] sm:text-center md:text-left md:ml-[75px]'>
                 <h1 className='font-extrabold'>Služby</h1>
             </div>

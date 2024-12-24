@@ -31,7 +31,7 @@ Rád se s vámi setkám, abychom probrali  vaše potřeby a možnosti spoluprác
 
 
     return (
-        <div id='Faq' className='w-full flex flex-col md:flex-row '>
+        <div id='Časté dotazy' className='w-full flex flex-col md:flex-row '>
             <div className='sm:w-[100%] md:w-[30%] sm:text-center md:text-left md:ml-[75px]'>
                 <h1 className='font-extrabold'>Časté dotazy</h1>
                 <p>Máte nějaké otázky ohledně tvorby vašeho webu? Zde naleznete odpovědi na nejčastější dotazy našich klientů.</p>
